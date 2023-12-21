@@ -1,8 +1,15 @@
 # Robofriends
 
-This project was created while taking taking the React section of the ZTM WebDev Course
+This project was created while taking the React portion of the ZTM WebDev Course. This website fetches user data from [JsonPlaceholder](https://jsonplaceholder.typicode.com/) and creates a random profile picture by passing a unique id with [RoboHash](https://robohash.org/) and displays the users information with a search window where you can look up the name of a user/friend
 
-## Available Scripts
+## Screenshots
+
+![robofriends-ss1](https://github.com/m1tch191/robofriends/assets/87219656/68d8ebc2-b999-48dc-aa6b-5e9ee7af84c0)
+![robofriends-ss2](https://github.com/m1tch191/robofriends/assets/87219656/e0e1ee87-a4f5-434d-b1ff-5a845c403671)
+![robofriends-ss3](https://github.com/m1tch191/robofriends/assets/87219656/8bb36ab2-198b-4a8f-b870-4d2e9c005de1)
+
+
+## How to run on your PC
 
 In the project directory, you can run:
 
